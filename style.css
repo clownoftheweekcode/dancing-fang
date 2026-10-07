@@ -1,0 +1,21 @@
+#end, #spawn {
+    width:10px;
+    height:150px;
+    background-color: blue;
+    display:inline-block;
+}
+#lane {
+    background-color:gray;
+    width:650px;
+}
+#spawn {
+    float:right;
+    background-color: darkblue;
+}
+.beat {
+    display:inline-block;
+    position:absolute;
+    width:20px;
+    height:50px;
+    background-color: green;
+}
